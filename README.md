@@ -11,4 +11,4 @@ Repository created to store my basics implementations of algorithms.
 
 ## Authors
 
-* **Ruan Natan Guerra Pato** - *Exercises made extraclass* - [Ruan Pato](https://github.com/ruanpato)
+* **Ruan Natan Guerra Pato** - *Codes implemented* - [Ruan Pato](https://github.com/ruanpato)
