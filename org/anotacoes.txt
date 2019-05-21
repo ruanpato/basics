@@ -1,0 +1,9 @@
+valgrind <compiler> <namecode.extesion> <args>
+
+valgrind gcc example.c -S
+don't erase the .s file ("assembly")
+
+valgrind gcc example.c -c
+don't erase the .o file
+
+objdump -o
