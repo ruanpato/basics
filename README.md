@@ -1,8 +1,6 @@
-# basics
+# Basic things and little projects
 
 Repositório criado para armazenar implementações básicas de algoritmos.
-
-Repository created to store my basics implementations of algorithms.
 
 ## Built With
 
