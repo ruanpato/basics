@@ -29,7 +29,7 @@ Como dito este repositório foi criado com o intuito de armanenar algumas implem
   * Como usar (Quando finalizado)
   * Autor(es)  (exemplo no final deste arquivo)
   
-Obs. Padrões de Diretórios também são válidos para quaisquer sub-diretório.
+Obs. Padrões de Diretórios também são válidos para quaisquer sub-diretórios.
   
 **Arquivos:**
 
