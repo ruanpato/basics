@@ -35,3 +35,6 @@ Sendo N a quantidade de arqueiros.
 * [PyAudio](https://pypi.org/project/PyAudio/) - Biblioteca para saída/entrada de aúdio multiplataforma.
 * [pyttsx](https://pypi.org/project/pyttsx3/) - Biblioteca para conversão de texto em voz que funciona offline.
 * [SpeechRecognition](https://pypi.org/project/SpeechRecognition/) - Biblioteca para reconhecimento de voz(online e offline).
+
+#### Autor ####
+**Ruan Natan Guerra Pato** - Códigos implementados - [Ruan Pato](https://github.com/ruanpato)
