@@ -1,5 +1,5 @@
 # Tropas #
-Projeto iniciado com o intuito de dividir "automaticamente" tropas para o jogo ROK
+Projeto iniciado com o intuito de dividir "automaticamente" tropas para o jogo ROK(Rise of Kingdoms).
 
 ## To do ##  
 1. **Divisão**
@@ -28,7 +28,7 @@ E então será reconhecido e se tiver algum arqueiro de nivel 1 será dito:
 "Existem N arqueiros nivel 1 para o primeiro comandante, N"
 Sendo N a quantidade de arqueiros.
 ### Ferramentas utilizadas ###
-[Python](https://www.python.org/) - Interpretador Python versão 3.7.3
+[Python](https://www.python.org/) - Interpretador Python versão 3.7.3.  
 **Bibliotecas Python:**
 * [gTTS](https://pypi.org/project/gTTS/) - (Google Text-To-Speech) biblioteca para conversão de texto para voz.
 * [playsound](https://pypi.org/project/playsound/) - Biblioteca para tocar sons (multiplataforma).
