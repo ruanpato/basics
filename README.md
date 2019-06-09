@@ -11,9 +11,9 @@ Como dito este repositório foi criado com o intuito de armanenar algumas implem
 
 ### Padrões ###
 
-**Sub-diretórios:**
+**Diretórios:**
 
-* **Todo sub-diretório deve ser nomeado seguindo o padrão:**
+* **Todo diretório deve ser nomeado seguindo o padrão:**
   * Letras minusculas (é mais prático de acessar no terminal)
   * Caso o nome tenha mais de uma palavara deve se usar underline **\_** como se fosse o espaço, exemplo:
     * diretorio_com_mais_de_uma_palavra_0/
@@ -22,13 +22,15 @@ Como dito este repositório foi criado com o intuito de armanenar algumas implem
     * Algarismos arábicos (0, 1, 2, 3, 4, 5, 6, 7, 8, 9)
     * Caractere underline(no lugar de espaço) ( \_ )
 
-* **Todos sub-diretório deve ter um README.md com esses tópicos:**  
+* **Todos diretório deve ter um README.md com esses tópicos:**  
   * Título com uma breve descrição do projeto
   * Para que serve, objetivo
   * Quais ferramentas utilizadas
   * Como usar (Quando finalizado)
   * Autor(es)  (exemplo no final deste arquivo)
-
+  
+Obs. Padrões de Diretórios também são válidos para quaisquer sub-diretório.
+  
 **Arquivos:**
 
 * **Todos os arquivos devem ser nomeados seguindo o padrão:**
