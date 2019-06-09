@@ -1,6 +1,6 @@
-# Implementações em C #
+# Implementações em Python #
 
-Diretório criado para armazenar implementações básicas de algoritmos e alguns pequenos projetos na linguagem C.
+Diretório criado para armazenar implementações básicas de algoritmos e alguns pequenos projetos na linguagem Python.
 
 ## Pequenos projetos ##
 
