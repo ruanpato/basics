@@ -1,3 +1,28 @@
+
+Skip to content
+Pull requests
+Issues
+Marketplace
+Explore
+@ruanpato
+
+1
+0
+
+    0
+
+ruanpato/basics
+Code
+Issues 2
+Pull requests 0
+Projects 1
+Wiki
+Security
+Insights
+Settings
+basics/pyThings/misc/tropas.py
+@ruanpato ruanpato tropas file to divide equally a amount of troops bc6fe6f 3 hours ago
+104 lines (100 sloc) 3.92 KB
 tropas = []
 comandantes = []
 menor_c = 0 # menor capacidade
@@ -102,3 +127,18 @@ for i in range(2):
         total_tropas += tropas_ordenadas_por_nivel[j].get_quantidade()
     print("| Total =", total_tropas)
     tropas_ordenadas_por_nivel.clear()
+
+    © 2019 GitHub, Inc.
+    Terms
+    Privacy
+    Security
+    Status
+    Help
+
+    Contact GitHub
+    Pricing
+    API
+    Training
+    Blog
+    About
+
