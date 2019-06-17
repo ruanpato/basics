@@ -1,0 +1,12 @@
+# Ignores VSCode
+**/.vscode
+
+# Ignores C default compiled file
+**/*.out
+
+# Ignores Pascal default compiled file
+**/*.o
+uriOnlineJudge/pascal/!*.*
+
+# To let gitignore global
+# git config --global core.excludesfile ~/.gitignore
